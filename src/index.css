@@ -1,0 +1,393 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+body {
+  overflow: hidden;
+}
+
+.menu-btn.active {
+  background-color: white;
+  color: black;
+}
+
+#btn-album-upload {
+  position: absolute;
+  bottom: 16px;
+}
+
+.file-upload-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.custom-choose-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  padding: 8px 16px;
+  display: inline-flex;
+  align-items: center;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.custom-choose-button:hover {
+  background-color: #0056b3;
+}
+
+.custom-choose-button .pi {
+  margin-right: 8px;
+  font-size: 20px;
+}
+
+.library-text:hover {
+  border: 3px solid #4630d4;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.library-component:hover {
+  border: 3px solid #4630d4;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.container-border {
+  position: absolute;
+  display: flex;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid transparent;
+  transition: border 0.3s; /* Smooth transition for the border */
+}
+
+.container-border:hover {
+  border: 5px solid #4630D4;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+@media (max-width: 400px) {
+  .main-layout-container {
+    height: 200vh;
+  }
+  .menubar-container {
+    width: 3rem;
+  }
+  .menubar-container .menubar {
+    width: 3rem;
+  }
+  .menubar-container .menubar .menu-btn {
+    width: 3rem;
+    padding: 12px;
+  }
+  .main-container {
+  }
+  .library-container {
+    min-width: 240px;
+  }
+  .h4-typography {
+    font-size: 20pt;
+  }
+  .library-explain {
+    font-size: 8pt;
+    padding: 1px;
+  }
+  .image-uploader-btn {
+    gap: 10px;
+  }
+  .workspace-container {
+    width: calc(100%-12rem);
+  }
+  .layout-border {
+    width: 200px;
+  }
+  .layout-container {
+    width: 200px;
+  }
+}
+
+@media (min-width: 400px) {
+  .main-layout-container {
+    height: 170vh;
+  }
+  .menubar-container {
+    width: 3rem;
+  }
+  .menubar-container .menubar {
+    width: 3rem;
+  }
+  .menubar-container .menubar .menu-btn {
+    width: 3rem;
+    padding: 12px;
+  }
+  .main-container {
+  }
+  .library-container {
+    min-width: 240px;
+  }
+  .h4-typography {
+    font-size: 20pt;
+  }
+  .library-explain {
+    font-size: 8pt;
+    padding: 1px;
+  }
+  .image-uploader-btn {
+    gap: 10px;
+  }
+  .workspace-container {
+    width: calc(100%-12rem);
+    height: 100%;
+  }
+  .layout-border {
+    width: 200px;
+  }
+  .layout-container {
+    width: 200px;
+  }
+}
+
+@media (min-width: 640px) {
+  .main-layout-container {
+    height: 120vh;
+  }
+  .menubar-container {
+    width: 3rem;
+  }
+  .menubar-container .menubar {
+    width: 3rem;
+  }
+  .menubar-container .menubar .menu-btn {
+    padding: 12px;
+    width: 3rem;
+  }
+  .main-container {
+  }
+  .library-container {
+    min-width: 240px;
+  }
+  .h4-typography {
+    font-size: 20pt;
+  }
+  .library-explain {
+    font-size: 8pt;
+    padding: 3px;
+  }
+  .image-uploader-btn {
+    gap: 10px;
+  }
+  .workspace-container {
+    width: calc(100%-35rem);
+  }
+  .layout-border {
+    width: 200px;
+  }
+  .layout-container {
+    width: 200px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row;
+  }
+  .menubar-container {
+    width: 3rem;
+  }
+  .menubar-container .menubar {
+    width: 3rem;
+  }
+  .menubar-container .menubar .menu-btn {
+    padding: 12px;
+    width: 3rem;
+  }
+  .main-container {
+  }
+  .library-container {
+    min-width: 240px;
+  }
+  .h4-typography {
+    font-size: 21pt;
+  }
+  .library-explain {
+    font-size: 10pt;
+    padding: 3px;
+  }
+  .image-uploader-btn {
+    gap: 10px;
+  }
+  .workspace-container {
+    width: calc(100%-35rem);
+  }
+  .layout-border {
+    width: 200px;
+  }
+  .layout-container {
+    width: 200px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    flex-direction: row;
+  }
+  .menubar-container {
+    width: 4rem;
+  }
+  .menubar-container .menubar {
+    width: 4rem;
+  }
+  .menubar-container .menubar .menu-btn {
+    padding: 24px;
+    width: 4rem;
+  }
+  .main-container {
+  }
+  .library-container {
+    min-width: 240px;
+  }
+  .h4-typography {
+    font-size: 23pt;
+  }
+  .library-explain {
+    font-size: 13pt;
+    padding: 3px;
+  }
+  .image-uploader-btn {
+    gap: 10px;
+  }
+  .workspace-container {
+    width: calc(100%-35rem);
+  }
+  .layout-border {
+    width: 310px;
+  }
+  .layout-container {
+    width: 310px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    flex-direction: row;
+  }
+  .menubar-container {
+    width: 4rem;
+  }
+  .menubar-container .menubar {
+    width: 4rem;
+  }
+  .menubar-container .menubar .menu-btn {
+    padding: 22px;
+    width: 4rem;
+  }
+  .main-container {
+  }
+  .library-container {
+    width: 30rem;
+  }
+  .library-explain {
+    font-size: 13pt;
+    padding: 3px;
+  }
+  .h4-typography {
+    font-size: 23pt;
+  }
+  .image-uploader-btn {
+    gap: 2rem;
+  }
+  .workspace-container {
+    width: calc(100%-35rem);
+  }
+  .layout-border {
+    width: 20rem;
+  }
+  .layout-container {
+    width: 20rem;
+  }
+}
+
+.book-layout {
+  position: relative;
+  padding: 20px;
+  width: 90%;
+  margin: auto;
+}
+
+.book-layout::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 49.999%;
+  width: 3px;
+  background-color: rgba(0, 0, 0, 0.05);
+  transform: translateX(-50%);
+}
+
+.book-layout-left {
+  position: relative;
+  padding: 20px;
+  width: 90%;
+  margin: auto;
+}
+
+.book-layout-left::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left:-4%;
+  width: 3px;
+  background-color: rgba(0, 0, 0, 0.05);
+  transform: translateX(-50%);
+}
+
+.book-layout-right {
+  position: relative;
+  padding: 20px;
+  width: 90%;
+  margin: auto;
+}
+
+.book-layout-right::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right:-5%;
+  width: 3px;
+  background-color: rgba(0, 0, 0, 0.05);
+  transform: translateX(-50%);
+}

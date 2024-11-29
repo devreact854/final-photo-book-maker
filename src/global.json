@@ -1,0 +1,4168 @@
+{
+  "BookFormat": [
+    "Square 21x21cm",
+    "Landscape A4",
+    "Portrait A4",
+    "Square 30x30cm"
+  ],
+  "BookFormatNickType": ["Square21", "Landscape", "Portrait", "Square30"],
+  "ComponentSize": ["210X210", "210X297", "297X210", "300X300"],
+
+  "LayoutObject": {
+    "Square30": [
+      {
+        "name": "Square cover 300x300 Cover 1",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 79.88,
+            "width": 79.94,
+            "x": 10.06,
+            "y": 10.06,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Cover%201.svg"
+        }
+      },
+      {
+        "name": "Square cover 300x300 Cover 2",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 68.2,
+            "width": 80,
+            "x": 10,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 11.99,
+            "width": 80,
+            "x": 10,
+            "y": 80.96,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Cover%202.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 First 6",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 13.33,
+            "width": 23.33,
+            "x": 66.67,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/First%206.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 First 3",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 53.33,
+            "width": 80,
+            "x": 10,
+            "y": 23.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 3.58,
+            "width": 68.06,
+            "x": 10,
+            "y": 86.42,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/First%203.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 First 5",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 80,
+            "width": 51.67,
+            "x": 10,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 23.33,
+            "x": 66.67,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/First%205.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 First 7",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "first",
+        "layout_boxes": [],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/First%207.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 First 1",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 63.33,
+            "width": 100,
+            "x": 0,
+            "y": 18.65,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 3.58,
+            "width": 68,
+            "x": 10,
+            "y": 86.74,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/First%201.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 First 2",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/First%202.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 First 4",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 61.67,
+            "width": 61.67,
+            "x": 19.17,
+            "y": 19.17,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 4.33,
+            "width": 53.47,
+            "x": 19.17,
+            "y": 85.67,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/First%204.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Last 5",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 80,
+            "width": 51.67,
+            "x": 10,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 23.33,
+            "x": 66.67,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Last%205.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Last 4",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 61.67,
+            "width": 61.67,
+            "x": 19.17,
+            "y": 19.17,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 61.67,
+            "width": 61.67,
+            "x": 19.17,
+            "y": 19.17,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 4.17,
+            "width": 53.47,
+            "x": 19.17,
+            "y": 85.83,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Last%204.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Last 3",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 53.33,
+            "width": 80,
+            "x": 10,
+            "y": 23.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5,
+            "width": 53.47,
+            "x": 10,
+            "y": 85,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Last%203.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Last 6",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 13.33,
+            "width": 23.33,
+            "x": 10,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Last%206.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Last 1",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 63.33,
+            "width": 100,
+            "x": 0,
+            "y": 18.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 3.58,
+            "width": 68,
+            "x": 10,
+            "y": 86.42,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Last%201.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Last 2",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Last%202.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 17",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80,
+            "width": 25.83,
+            "x": 55,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 53.33,
+            "width": 40,
+            "x": 5,
+            "y": 23.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 83.33,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 5,
+            "width": 26.74,
+            "x": 5,
+            "y": 85,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2017.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 0",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%200.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 3",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 80.83,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 83.33,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%203.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 16",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80,
+            "width": 25.83,
+            "x": 5,
+            "y": 10.32,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80,
+            "width": 25.83,
+            "x": 55,
+            "y": 10.32,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 33.33,
+            "y": 10.32,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 83.33,
+            "y": 10.32,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2016.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 9",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 61.67,
+            "width": 30.83,
+            "x": 59.58,
+            "y": 19.17,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5,
+            "width": 26.74,
+            "x": 59.58,
+            "y": 85.83,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%209.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 12",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 53.33,
+            "width": 40,
+            "x": 5,
+            "y": 23.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5,
+            "width": 26.74,
+            "x": 5,
+            "y": 85,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2012.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 2",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 37.5,
+            "width": 18.75,
+            "x": 26.16,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 37.5,
+            "width": 18.75,
+            "x": 26.16,
+            "y": 52.5,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 37.5,
+            "width": 18.75,
+            "x": 76.16,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 37.5,
+            "width": 18.75,
+            "x": 76.16,
+            "y": 52.5,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 37.5,
+            "width": 18.75,
+            "x": 4.91,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 37.5,
+            "width": 18.75,
+            "x": 4.91,
+            "y": 52.5,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 37.5,
+            "width": 18.75,
+            "x": 54.91,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 37.5,
+            "width": 18.75,
+            "x": 54.91,
+            "y": 52.5,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%202.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 22",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80,
+            "width": 26.67,
+            "x": 5,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80,
+            "width": 26.67,
+            "x": 36.67,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80,
+            "width": 26.67,
+            "x": 68.33,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2022.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 7",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%207.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 10",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 61.67,
+            "width": 30.83,
+            "x": 9.58,
+            "y": 19.17,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 61.67,
+            "width": 30.83,
+            "x": 9.58,
+            "y": 19.17,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5,
+            "width": 26.74,
+            "x": 9.58,
+            "y": 85.83,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2010.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 1",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80,
+            "width": 100,
+            "x": 0,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%201.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 11",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 53.33,
+            "width": 40,
+            "x": 55,
+            "y": 23.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5,
+            "width": 26.74,
+            "x": 55,
+            "y": 85,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2011.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 14",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80,
+            "width": 25.83,
+            "x": 5,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 33.33,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2014.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 19",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 63.33,
+            "width": 50,
+            "x": 0,
+            "y": 18.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80,
+            "width": 25.83,
+            "x": 55,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 3.58,
+            "width": 34,
+            "x": 5,
+            "y": 86.42,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 83.33,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2019.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 20",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 63.33,
+            "width": 50,
+            "x": 50,
+            "y": 18.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80,
+            "width": 25.83,
+            "x": 5,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 3.58,
+            "width": 34,
+            "x": 55,
+            "y": 86.42,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 33.33,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2020.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 15",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 53.33,
+            "width": 40,
+            "x": 5,
+            "y": 23.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 53.33,
+            "width": 40,
+            "x": 55,
+            "y": 23.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5,
+            "width": 26.74,
+            "x": 5,
+            "y": 85,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 5,
+            "width": 26.74,
+            "x": 55,
+            "y": 85,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2015.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 6",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80,
+            "width": 75.83,
+            "x": 19.17,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 5,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%206.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 21",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 63.33,
+            "width": 50,
+            "x": 0,
+            "y": 18.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 63.33,
+            "width": 50,
+            "x": 50,
+            "y": 18.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 3.58,
+            "width": 34,
+            "x": 5,
+            "y": 86.42,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 3.58,
+            "width": 34,
+            "x": 55,
+            "y": 86.42,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2021.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 4",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80,
+            "width": 75.83,
+            "x": 5,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 83.33,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%204.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 18",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 53.33,
+            "width": 40,
+            "x": 55,
+            "y": 23.33,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80,
+            "width": 25.83,
+            "x": 5,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5,
+            "width": 26.74,
+            "x": 55,
+            "y": 85,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 33.33,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2018.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 5",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 80.83,
+            "x": 19.17,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 5,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%205.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 13",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80,
+            "width": 25.83,
+            "x": 55,
+            "y": 10,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.33,
+            "width": 11.67,
+            "x": 83.33,
+            "y": 10,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%2013.svg"
+        }
+      },
+      {
+        "name": "Square 300x300 Interior 8",
+        "code": null,
+        "product_dimensions": "300x300",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 61.67,
+            "width": 30.83,
+            "x": 9.58,
+            "y": 19.17,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 61.67,
+            "width": 30.83,
+            "x": 9.58,
+            "y": 19.17,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 61.67,
+            "width": 30.83,
+            "x": 59.58,
+            "y": 19.17,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 4.17,
+            "width": 26.74,
+            "x": 9.58,
+            "y": 85.83,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 4.17,
+            "width": 26.74,
+            "x": 59.58,
+            "y": 85.83,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20300x300/Interior%208.svg"
+        }
+      }
+    ],
+    "Landscape": [
+      {
+        "name": "Landscape 210x297 First 6",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "first",
+        "layout_boxes": [],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/First%206.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 First 3",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 71.07,
+            "width": 100,
+            "x": 0,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 62.18,
+            "x": 6.73,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/First%203.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 First 5",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 19.05,
+            "width": 24.35,
+            "x": 68.91,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/First%205.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 First 1",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/First%201.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 First 2",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 71.07,
+            "width": 86.53,
+            "x": 6.73,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 62.18,
+            "x": 6.73,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/First%202.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 First 4",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 39.9,
+            "x": 6.73,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 39.9,
+            "x": 53.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/First%204.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Last 5",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 19.05,
+            "width": 24.35,
+            "x": 6.73,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Last%205.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Last 4",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 39.9,
+            "x": 6.73,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 39.9,
+            "x": 53.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Last%204.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Last 3",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 71.07,
+            "width": 100,
+            "x": 0,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 62.18,
+            "x": 6.73,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Last%203.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Last 1",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Last%201.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Last 2",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 71.07,
+            "width": 86.53,
+            "x": 6.73,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 62.18,
+            "x": 6.73,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Last%202.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 0",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%200.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 3",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 43.27,
+            "x": 3.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 43.27,
+            "x": 53.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%203.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 9",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 68.79,
+            "width": 19.95,
+            "x": 3.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 68.79,
+            "width": 19.95,
+            "x": 26.68,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 7.4,
+            "width": 19.95,
+            "x": 26.68,
+            "y": 83.07,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 7.4,
+            "width": 19.95,
+            "x": 3.37,
+            "y": 83.07,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%209.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 12",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80.39,
+            "width": 77.34,
+            "x": 19.06,
+            "y": 9.8,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 19.61,
+            "width": 11.87,
+            "x": 3.6,
+            "y": 9.8,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%2012.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 2",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 71.07,
+            "width": 43.27,
+            "x": 53.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 71.07,
+            "width": 43.27,
+            "x": 3.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 31.09,
+            "x": 53.37,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 31.09,
+            "x": 3.37,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%202.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 7",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 19.08,
+            "x": 15.38,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 19.05,
+            "width": 10.41,
+            "x": 3.28,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%207.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 10",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 81.09,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 19.05,
+            "width": 12.18,
+            "x": 84.46,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%2010.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 1",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%201.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 11",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 19.05,
+            "width": 12.18,
+            "x": 84.46,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 77.72,
+            "x": 3.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%2011.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 14",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 53.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 3.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 68.35,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 18.35,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 83.33,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 33.33,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 53.37,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 3.37,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 68.35,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 18.35,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 83.33,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 13.3,
+            "x": 33.33,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%2014.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 6",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 19.08,
+            "x": 65.54,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 19.05,
+            "width": 10.41,
+            "x": 86.31,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%206.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 4",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 19.95,
+            "x": 53.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 19.95,
+            "x": 76.68,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 19.95,
+            "x": 3.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 19.95,
+            "x": 26.68,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%204.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 5",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 68.79,
+            "width": 19.95,
+            "x": 3.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 68.79,
+            "width": 19.95,
+            "x": 53.37,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 68.79,
+            "width": 19.95,
+            "x": 26.68,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 68.79,
+            "width": 19.95,
+            "x": 76.68,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 7.4,
+            "width": 19.95,
+            "x": 26.68,
+            "y": 83.07,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 7.4,
+            "width": 19.95,
+            "x": 76.68,
+            "y": 83.07,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 7.4,
+            "width": 19.95,
+            "x": 3.37,
+            "y": 83.07,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 7.4,
+            "width": 19.95,
+            "x": 53.37,
+            "y": 83.07,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%205.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 13",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 81.09,
+            "x": 18.91,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 19.05,
+            "width": 12.18,
+            "x": 3.37,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%2013.svg"
+        }
+      },
+      {
+        "name": "Landscape 210x297 Interior 8",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 67.87,
+            "width": 19.6,
+            "x": 53.6,
+            "y": 9.8,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 67.87,
+            "width": 19.6,
+            "x": 76.8,
+            "y": 9.8,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 8.33,
+            "width": 19.6,
+            "x": 53.6,
+            "y": 82.57,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 8.33,
+            "width": 19.6,
+            "x": 76.8,
+            "y": 82.57,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Interior%208.svg"
+        }
+      },
+      {
+        "name": "Landscape cover 210x297 Cover 1",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 86.53,
+            "x": 6.73,
+            "y": 9.69,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Cover%201.svg"
+        }
+      },
+      {
+        "name": "Landscape cover 210x297 Cover 2",
+        "code": null,
+        "product_dimensions": "210x297",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 71.07,
+            "width": 85.76,
+            "x": 7.12,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 8.12,
+            "width": 65.72,
+            "x": 7.12,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Landscape%20210x297/Cover%202.svg"
+        }
+      }
+    ],
+    "Portrait": [
+      {
+        "name": "Portrait 297x210 First 1",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 32.83,
+            "width": 46.43,
+            "x": 26.79,
+            "y": 33.67,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 46.43,
+            "x": 26.79,
+            "y": 69.02,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/First%201.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 First 2",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 13.47,
+            "width": 46.43,
+            "x": 26.79,
+            "y": 43.35,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/First%202.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Last 1",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 32.83,
+            "width": 46.43,
+            "x": 26.79,
+            "y": 33.59,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 46.43,
+            "x": 26.79,
+            "y": 69.02,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Last%201.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Last 2",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 32.83,
+            "width": 71.43,
+            "x": 14.29,
+            "y": 32.83,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 38.09,
+            "x": 14.29,
+            "y": 68.18,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Last%202.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 0",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%200.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 3",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 47.98,
+            "width": 33.37,
+            "x": 3.57,
+            "y": 5.05,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 39.33,
+            "width": 39.26,
+            "x": 55.36,
+            "y": 29.59,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 30.3,
+            "width": 32.14,
+            "x": 14.29,
+            "y": 63.13,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 6.57,
+            "width": 19.05,
+            "x": 3.57,
+            "y": 55.56,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 19.05,
+            "x": 55.36,
+            "y": 70.71,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 19.05,
+            "x": 77.38,
+            "y": 5.05,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%203.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 9",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 68.18,
+            "width": 32.14,
+            "x": 67.86,
+            "y": 13.89,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 19.05,
+            "x": 67.86,
+            "y": 84.17,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%209.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 2",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 40.4,
+            "width": 28.57,
+            "x": 10.71,
+            "y": 27.78,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 19.05,
+            "x": 10.71,
+            "y": 70.71,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%202.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 7",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 45.45,
+            "width": 32.14,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 58.08,
+            "width": 41.07,
+            "x": 58.93,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 39.39,
+            "width": 39.33,
+            "x": 10.67,
+            "y": 60.61,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 10.1,
+            "width": 19.05,
+            "x": 3.57,
+            "y": 47.98,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 10.1,
+            "width": 19.05,
+            "x": 58.93,
+            "y": 60.61,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%207.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 1",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 33.67,
+            "width": 35.71,
+            "x": 7.14,
+            "y": 15.15,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 33.67,
+            "width": 35.71,
+            "x": 7.14,
+            "y": 52.19,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 70.71,
+            "width": 33.33,
+            "x": 58.33,
+            "y": 15.15,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 10.94,
+            "width": 19.05,
+            "x": 7.14,
+            "y": 87.54,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 10.94,
+            "width": 19.05,
+            "x": 58.33,
+            "y": 87.54,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%201.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 6",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 75.76,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 19.05,
+            "x": 3.57,
+            "y": 78.28,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%206.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 4",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 69.7,
+            "width": 62.5,
+            "x": 0,
+            "y": 30.3,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 32.83,
+            "width": 23.21,
+            "x": 73.21,
+            "y": 5.05,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 19.05,
+            "x": 3.57,
+            "y": 5.05,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 23.21,
+            "x": 73.21,
+            "y": 40.4,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%204.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 5",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 55.56,
+            "width": 28.57,
+            "x": 10.71,
+            "y": 22.73,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 32.83,
+            "width": 23.21,
+            "x": 63.39,
+            "y": 53.03,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 32.83,
+            "width": 23.21,
+            "x": 63.39,
+            "y": 15.15,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 19.05,
+            "x": 10.71,
+            "y": 80.81,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 7.58,
+            "width": 19.05,
+            "x": 63.39,
+            "y": 88.38,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%205.svg"
+        }
+      },
+      {
+        "name": "Portrait 297x210 Interior 8",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 54.55,
+            "width": 39.29,
+            "x": 21.43,
+            "y": 45.45,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 32.83,
+            "width": 35.71,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 60.61,
+            "width": 28.57,
+            "x": 71.43,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 9.09,
+            "width": 19.05,
+            "x": 3.57,
+            "y": 35.35,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 19.05,
+            "x": 71.43,
+            "y": 63.13,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 13.47,
+            "width": 19.05,
+            "x": 71.43,
+            "y": 78.28,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Interior%208.svg"
+        }
+      },
+      {
+        "name": "Portrait cover 297x210 Cover 5",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 55.56,
+            "width": 78.57,
+            "x": 10.71,
+            "y": 7.58,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 17.98,
+            "width": 78.57,
+            "x": 10.71,
+            "y": 65.66,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Cover%205.svg"
+        }
+      },
+      {
+        "name": "Portrait cover 297x210 Cover 1",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "cover",
+        "layout_boxes": [],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Cover%201.svg"
+        }
+      },
+      {
+        "name": "Portrait cover 297x210 Cover 2",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 32.83,
+            "width": 46.43,
+            "x": 26.79,
+            "y": 32.83,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 17.98,
+            "width": 46.43,
+            "x": 26.79,
+            "y": 68.18,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Cover%202.svg"
+        }
+      },
+      {
+        "name": "Portrait cover 297x210 Cover 4",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 30.3,
+            "width": 64.29,
+            "x": 17.86,
+            "y": 35.35,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 17.98,
+            "width": 64.29,
+            "x": 17.86,
+            "y": 68.18,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Cover%204.svg"
+        }
+      },
+      {
+        "name": "Portrait cover 297x210 Cover 3",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 37.88,
+            "width": 42.86,
+            "x": 28.57,
+            "y": 30.3,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 17.98,
+            "width": 42.86,
+            "x": 28.57,
+            "y": 70.71,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Cover%203.svg"
+        }
+      },
+      {
+        "name": "Portrait cover 297x210 Cover 7",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 17.98,
+            "width": 78.95,
+            "x": 10.71,
+            "y": 77.28,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Cover%207.svg"
+        }
+      },
+      {
+        "name": "Portrait cover 297x210 Cover 6",
+        "code": null,
+        "product_dimensions": "297x210",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 84.82,
+            "width": 78.57,
+            "x": 10.71,
+            "y": 7.58,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Portrait%20297x210/Cover%206.svg"
+        }
+      }
+    ],
+
+    "Square21": [
+      {
+        "name": "Square 210x210 First 6",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 23.81,
+            "width": 35.71,
+            "x": 54.76,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/First%206.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 First 3",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 54.6,
+            "width": 80.95,
+            "x": 9.52,
+            "y": 22.7,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 80.95,
+            "x": 9.52,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/First%203.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 First 5",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 52.38,
+            "x": 9.52,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 23.81,
+            "x": 66.67,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/First%205.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 First 7",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "first",
+        "layout_boxes": [],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/First%207.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 First 1",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 66.67,
+            "width": 100,
+            "x": 0,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 80.95,
+            "x": 9.52,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/First%201.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 First 2",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/First%202.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 First 4",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "first",
+        "layout_boxes": [
+          {
+            "height": 62.86,
+            "width": 41.9,
+            "x": 29.05,
+            "y": 17.74,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 80.95,
+            "x": 9.52,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/First%204.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Last 5",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 52.38,
+            "x": 9.52,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 23.81,
+            "x": 66.67,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Last%205.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Last 4",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 47.14,
+            "width": 47.14,
+            "x": 26.51,
+            "y": 26.85,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 80.95,
+            "x": 10.03,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Last%204.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Last 3",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 60.71,
+            "width": 80.95,
+            "x": 9.52,
+            "y": 19.64,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 80.95,
+            "x": 9.52,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Last%203.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Last 6",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 23.81,
+            "width": 23.81,
+            "x": 9.52,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Last%206.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Last 1",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 66.67,
+            "width": 100,
+            "x": 0,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 80.95,
+            "x": 9.52,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Last%201.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Last 2",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "last",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Last%202.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 17",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 26.19,
+            "x": 54.76,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 54.29,
+            "width": 40.48,
+            "x": 4.76,
+            "y": 22.86,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 83.33,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 4.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2017.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 0",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 100,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%200.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 3",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 80.95,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 83.33,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%203.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 16",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 26.19,
+            "x": 4.76,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 26.19,
+            "x": 54.76,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 33.33,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 83.33,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2016.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 9",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 47.14,
+            "width": 23.57,
+            "x": 63.21,
+            "y": 26.43,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 54.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%209.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 12",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 54.6,
+            "width": 40.48,
+            "x": 4.76,
+            "y": 22.7,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 4.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2012.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 2",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 38.09,
+            "width": 19.05,
+            "x": 76.19,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 19.05,
+            "x": 54.76,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 19.05,
+            "x": 26.19,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 19.05,
+            "x": 4.76,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 19.05,
+            "x": 76.19,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 19.05,
+            "x": 54.76,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 19.05,
+            "x": 26.19,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 38.09,
+            "width": 19.05,
+            "x": 4.76,
+            "y": 52.38,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%202.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 22",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 71.43,
+            "width": 25.24,
+            "x": 7.14,
+            "y": 14.29,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 71.43,
+            "width": 25.71,
+            "x": 37.14,
+            "y": 14.29,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 71.43,
+            "width": 25.24,
+            "x": 67.62,
+            "y": 14.29,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2022.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 7",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%207.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 10",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 47.14,
+            "width": 23.57,
+            "x": 13.21,
+            "y": 26.43,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 4.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2010.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 1",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 81.07,
+            "width": 100,
+            "x": 0,
+            "y": 9.46,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%201.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 11",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 54.6,
+            "width": 40.48,
+            "x": 54.76,
+            "y": 22.7,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 54.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2011.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 14",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 50,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 26.19,
+            "x": 5.01,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 33.59,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2014.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 19",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 66.67,
+            "width": 50,
+            "x": 0,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 26.19,
+            "x": 54.76,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 4.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 83.33,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2019.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 20",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 66.67,
+            "width": 50,
+            "x": 50,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 26.19,
+            "x": 4.76,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 54.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 33.33,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2020.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 15",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 54.6,
+            "width": 40.48,
+            "x": 4.76,
+            "y": 22.7,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 54.6,
+            "width": 40.48,
+            "x": 54.76,
+            "y": 22.7,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 4.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 54.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2015.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 6",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 76.19,
+            "x": 18.96,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 4.76,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%206.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 21",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 66.67,
+            "width": 50,
+            "x": 50.08,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 66.67,
+            "width": 50,
+            "x": 0.08,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 54.85,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 4.85,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2021.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 4",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 76.19,
+            "x": 4.76,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 83.33,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%204.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 18",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 26.19,
+            "x": 4.76,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 54.6,
+            "width": 40.95,
+            "x": 54.52,
+            "y": 22.7,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 33.33,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 54.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2018.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 5",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 80.95,
+            "x": 19.05,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 4.76,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%205.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 13",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 100,
+            "width": 50,
+            "x": 0,
+            "y": 0,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 80.95,
+            "width": 26.19,
+            "x": 55.01,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 23.81,
+            "width": 11.9,
+            "x": 83.58,
+            "y": 9.52,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%2013.svg"
+        }
+      },
+      {
+        "name": "Square 210x210 Interior 8",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "interior",
+        "layout_boxes": [
+          {
+            "height": 47.14,
+            "width": 23.57,
+            "x": 63.21,
+            "y": 26.43,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 47.14,
+            "width": 23.57,
+            "x": 13.21,
+            "y": 26.43,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 54.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          },
+          {
+            "height": 5.12,
+            "width": 40.48,
+            "x": 4.76,
+            "y": 85.36,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Interior%208.svg"
+        }
+      },
+      {
+        "name": "Square cover 210x210 Cover 1",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 80.95,
+            "width": 80.95,
+            "x": 9.52,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Cover%201.svg"
+        }
+      },
+      {
+        "name": "Square cover 210x210 Cover 2",
+        "code": null,
+        "product_dimensions": "210x210",
+        "layout_type": "cover",
+        "layout_boxes": [
+          {
+            "height": 66.67,
+            "width": 80.95,
+            "x": 9.58,
+            "y": 9.52,
+            "content_type": "image",
+            "options": null
+          },
+          {
+            "height": 15.96,
+            "width": 80.95,
+            "x": 9.58,
+            "y": 77.27,
+            "content_type": "text",
+            "options": null
+          }
+        ],
+        "get_url": {
+          "svg": "https://pdf-service-static.s3.amazonaws.com/static/layout-images/Square%20210x210/Cover%202.svg"
+        }
+      }
+    ]
+  },
+
+  "defaultLibrary": [
+    {
+      "component": 0,
+      "image": [],
+      "text": [],
+      "type": "cover",
+      "order": 0
+    },
+    {
+      "component": 0,
+      "image": [],
+      "text": [],
+      "type": "first",
+      "order": 1
+    },
+    {
+      "component": 0,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 2
+    },
+    {
+      "component": 1,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 2
+    },
+    {
+      "component": 2,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 3
+    },
+    {
+      "component": 3,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 4
+    },
+    {
+      "component": 4,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 5
+    },
+    {
+      "component": 5,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 6
+    },
+    {
+      "component": 6,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 7
+    },
+    {
+      "component": 7,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 8
+    },
+    {
+      "component": 8,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 9
+    },
+    {
+      "component": 9,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 10
+    },
+    {
+      "component": 10,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 11
+    },
+    {
+      "component": 11,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 12
+    },
+    {
+      "component": 12,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 13
+    },
+    {
+      "component": 13,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 14
+    },
+    {
+      "component": 14,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 15
+    },
+    {
+      "component": 15,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 16
+    },
+    {
+      "component": 16,
+      "image": [],
+      "text": [],
+      "type": "interior",
+      "order": 17
+    },
+    {
+      "component": 0,
+      "image": [],
+      "text": [],
+      "type": "last",
+      "order": 18
+    }
+  ]
+}
